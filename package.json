@@ -1,6 +1,6 @@
 {
-  "name": "@andrewdragon/utils",
-  "version": "1.0.0",
+  "name": "@andrewdragon/utils
+  "version": "0.0.3",
   "description": "My own utils for my own use",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
