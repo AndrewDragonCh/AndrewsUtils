@@ -1,5 +1,5 @@
 {
-  "name": "andrewsutils",
+  "name": "@andrewdragon/andrewsutils",
   "version": "0.0.1",
   "description": "My own utils for my own use",
   "main": "dist/index.js",
