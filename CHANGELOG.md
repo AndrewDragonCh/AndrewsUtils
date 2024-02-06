@@ -1,5 +1,11 @@
 # andrewsutils
 
+## 1.0.0
+
+### Major Changes
+
+- b05d35c: Version 1.0.0
+
 ## 0.0.3
 
 ### Patch Changes
