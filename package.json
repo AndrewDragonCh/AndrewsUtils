@@ -8,7 +8,7 @@
   "scripts": {
     "build": "tsup index.ts --format cjs,esm --dts",
     "lint": "tsc",
-    "release": "pnpm run build && changeset publish",
+    "release": "pnpm run build && changeset publish"
   },
   "author": "AndrewDragon <astill@dragonaere.com>",
   "license": "ISC",
