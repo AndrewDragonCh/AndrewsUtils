@@ -1,6 +1,6 @@
 # Andrew's Utils
 
-My own utils for my own use. I created this package so I didn't have to type the same code over and over. I'm trying to keep it dependencyless, but that may change.
+My own utils for my own use. I created this package so I didn't have to type the same code over and over and to learn how to do deployments and basic version control. I'm trying to keep it dependencyless, but that may change.
 
 ## Installation
 
