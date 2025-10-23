@@ -6,15 +6,15 @@
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
   "scripts": {
-    "build": "tsup src/index.ts --format cjs,esm --dts",
+    "build": "tsdown src/index.ts --format cjs,esm --dts",
     "lint": "tsc",
     "release": "pnpm run build && changeset publish"
   },
   "author": "AndrewDragon <astill@dragonaere.com>",
   "license": "ISC",
   "devDependencies": {
-    "@changesets/cli": "^2.27.1",
-    "tsup": "^8.0.1",
-    "typescript": "^5.3.3"
+    "@changesets/cli": "2.29.7",
+    "tsdown": "0.15.9",
+    "typescript": "5.9.3"
   }
 }
