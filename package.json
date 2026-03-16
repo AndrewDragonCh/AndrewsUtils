@@ -14,7 +14,7 @@
   "license": "ISC",
   "devDependencies": {
     "@changesets/cli": "2.30.0",
-    "tsdown": "0.20.3",
+    "tsdown": "0.21.3",
     "typescript": "5.9.3"
   }
 }
