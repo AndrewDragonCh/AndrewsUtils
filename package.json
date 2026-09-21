@@ -13,7 +13,7 @@
   "author": "AndrewDragon <astill@dragonaere.com>",
   "license": "ISC",
   "devDependencies": {
-    "@changesets/cli": "2.31.0",
+    "@changesets/cli": "3.0.3",
     "tsdown": "0.20.3",
     "typescript": "6.0.3"
   }
